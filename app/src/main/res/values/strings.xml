@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinbaseApp</string>
+    <string name="network_failure">Network Failure</string>
+</resources>
